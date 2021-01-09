@@ -6,5 +6,7 @@ module.exports = {
 	description: 'This is the shop',
 	cooldown: 5,
 	aliases: ['s'],
-	async execute(client, message, args)
+	async execute(client, message, args) {
+		
+	}
 }
